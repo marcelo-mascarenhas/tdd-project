@@ -1,0 +1,10 @@
+
+O TDD (Test-Driven Development) com testes de unidade e testes funcionais é uma abordagem de desenvolvimento de software que combina a escrita de testes automatizados de unidade e de funcionalidade antes da implementação do código.
+
+O processo começa com a escrita de um teste de funcionalidade do ponto de vista do usuário (teste funcional) para uma nova funcionalidade. Uma vez que o teste funcional falha, o desenvolvedor escreve um ou mais testes de unidade que definem o comportamento esperado do código.
+
+Em seguida, o desenvolvedor implementa o código mínimo necessário para fazer os testes de unidade passarem e refatora-o para garantir que o código seja limpo e de fácil manutenção.
+
+Por fim, o desenvolvedor executa novamente os testes funcionais para garantir que a funcionalidade atenda aos requisitos do usuário final e que todos os testes passem antes de integrar o código ao sistema.
+
+Essa abordagem ajuda a garantir que cada linha de código seja testada e validada antes da entrega da funcionalidade, criando um código mais limpo, modular e testável, além de garantir que a aplicação atenda aos requisitos do usuário final.
