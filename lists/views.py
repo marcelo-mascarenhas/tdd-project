@@ -2,6 +2,7 @@ from django.shortcuts import redirect, render
 from lists.models import Item
 
 def home_page(request):
+    #Handle POST request
     return render(request, 'home.html')
 
 def view_list(request):
